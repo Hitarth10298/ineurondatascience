@@ -5,3 +5,5 @@
 ## We will learn git and git tutorials
 
 ## This is the demo of how we use git commands
+
+## Changes are made in developer branch
