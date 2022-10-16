@@ -7,3 +7,5 @@
 ## This is the demo of how we use git commands
 
 ## Changes are made in developer branch
+
+## Changes are being made in developer2 branch
